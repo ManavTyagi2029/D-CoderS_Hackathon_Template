@@ -1,4 +1,4 @@
-## Team Number - Project Name
+## Team 49 - Traning and Placement info Page
 
 The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
 
@@ -26,4 +26,4 @@ An overview of
 ### Team Members
 ----------------------------------
 
-List of team member names and email IDs with their contributions
+Kritika Berry - 
