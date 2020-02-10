@@ -1,6 +1,6 @@
 body{
 	background: linear-gradient(white,teal);
-	font-family: Impact,Charcol,serif;	
+	margin-right: auto;	
 }
 #k1{
 	text-align: center;
@@ -22,11 +22,11 @@ ul{
 }  
 ul li{
 	float: left;
-	padding: 10px 40px;
+	padding: 10px 45px;
 
 	height: 40px;
 	background-color: teal; 
-	opacity: .8;
+	opacity: .9;
 	line-height: 40px;
 
 	font-size: 20px;

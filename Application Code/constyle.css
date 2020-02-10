@@ -21,3 +21,21 @@ body{
 h4{
 	font-size:20;
 }
+form{
+	border:1px solid white;
+	width:20px;
+}
+
+.f{
+	background-color: white;
+	color:black;
+}
+
+.rf{
+	margin-top:200px;
+	padding: 20px; 
+  width: 250px;
+  height: 250px;
+  border-radius: 35px;
+  border: 2px solid white;
+}
